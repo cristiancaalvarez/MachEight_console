@@ -9,10 +9,10 @@ Enter the height (in) to search:
 ### Results 🔧
 When the value to be searched for is entered, the program prints in console the pairs of players that when adding their heights coincide with said value, as follows:
 <p align="center">
-    <img src="https://github.com/cristiancaalvarez/MachEight_console/Results/139.png" width="350" title="hover text">
+    <img src="https://github.com/cristiancaalvarez/MachEight_console/blob/main/Results/139.png" width="350" title="hover text">
 </p>
 <p align="center">
-    <img src="https://github.com/cristiancaalvarez/MachEight_console/Results/176.png" width="350" title="hover text">
+    <img src="https://github.com/cristiancaalvarez/MachEight_console/blob/main/Results/139.png" width="350" title="hover text">
 </p>
 
 ### Info
